@@ -1,0 +1,9 @@
+#!/bin/sh
+export PHPRC=/users/alshamsiholdings.net/conf
+export PHP_FCGI_CHILDREN=1
+# Maximum requests before a process is stopped and a new one is launched 
+export PHP_FCGI_MAX_REQUESTS=5000
+#ProcessLifeTime 60 
+# Launch the PHP CGI binary 
+# This can be any other version of PHP which is compiled with FCGI support. 
+exec /usr/bin/php5-cgi 

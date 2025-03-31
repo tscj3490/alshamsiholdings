@@ -1,0 +1,50 @@
+<table border="0" cellpadding="0" cellspacing="0" height="40" width="100%">
+  <tr>
+    
+    <td width="10" align="center"></td>
+    
+    <td align="center"><a href="index.htm" class="nav_on">HOME</a></td>
+    
+    <td width="10" align="center"></td>
+    
+    <td align="center"><a href="about_us.htm" class="nav">ABOUT US</a></td>
+    
+    <td width="10" align="center"></td>
+    
+    <td align="center"><a href="vision_values.htm" class="nav">VISION & VALUES</a></td>
+    
+    <td width="10" align="center"></td>
+    
+    <td align="center"><a href="brands.htm" class="nav">BRANDS</a></td>
+    
+    <td width="10" align="center"></td>
+    
+    <td align="center"><a href="press.htm" class="nav">PRESS / NEWS</a></td>
+    
+    <td width="10" align="center"></td>
+        
+    <td align="center"><a href="contact.htm" class="nav">CONTACT</a></td>
+    
+    <td width="10" align="center"></td>
+    
+    <td width="1" align="center" bgcolor="#878689"></td>
+    
+<td width="55" align="center"><img src="{site_url}{theme_url}images/we_are_also_on.png" alt="" width="49" height="27" /></td>
+  
+  
+  <td width="65" align="center"><a href="http://twitter.com/" target="_blank"><img src="images/twitter.jpg" alt="" width="31" height="25" border="0"/></a><a href="http://www.youtube.com/" target="_blank"><img src="{site_url}{theme_url}images/youtube.jpg" alt="" width="26" height="25" border="0"/></a></td>
+
+<td width="15" align="center" bgcolor="#ffeb09"></td>
+
+<td width="15" align="center" bgcolor="#ffeb09"><span class="search">Search</span></td>
+<td width="10" align="center" bgcolor="#ffeb09"></td>
+<td width="15" align="center" bgcolor="#ffeb09"><label>
+  <input name="textfield" type="text" id="textfield" size="10" />
+</label></td>
+
+<td width="15" align="center" bgcolor="#ffeb09"><img src="{site_url}{theme_url}images/go.jpg" alt="" width="23" height="18" /></td>
+<td width="10" align="center" bgcolor="#ffeb09"></td>
+
+    
+  </tr>
+</table>

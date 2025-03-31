@@ -1,0 +1,13 @@
+﻿<table width="1032" height="14" border="0" cellspacing="0" cellpadding="0" style="margin-top:10px;">
+  <tr>
+    <td style="width:11px; height:14px;">&nbsp;</td>
+    <td style="width:350px; height:14px;"><span class="footer_text">© Copyright Alshamsi Holdings 2011. All rights reserved.    		</span></td>
+
+    <td style="width:120px; height:14px;">&nbsp;</td>
+    <td align="right" style="width:70px; height:14px;"><a href="careers.htm" class="footer_links">Working with us</a></td>
+    <td style="width:11px; height:14px;"><img src="{site_url}{theme_url}images/footer_split.png" /></td>
+<td align="centre" style="width:70px; height:14px;"><a href="privacy.htm" class="footer_links">Privacy Policy</a></td>
+    <td style="width:11px; height:14px;"><img src="{site_url}{theme_url}images/footer_split.png" /></td>
+    <td style="width:104px; height:14px;"><a href="terms.htm" class="footer_links">Terms &amp; Conditions</a></td>
+    </tr>
+</table>

@@ -1,0 +1,34 @@
+<table border="0" cellpadding="0" cellspacing="0" style="margin-top:10px;" >
+            <tr>
+                <td>
+                
+                <script type="text/javascript">
+//new fadeshow(IMAGES_ARRAY_NAME, slideshow_width, slideshow_height, borderwidth, delay, pause (0=no, 1=yes), optionalRandomOrder)
+new fadeshow(fadeimages, 850, 434, 0, 2000, 1)
+</script>
+                </td>
+             </tr>
+
+             <tr><td style="height:10px;"></td></tr>
+             <tr>
+                <td>
+		    <table border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+			    <td style="width:270px; height:169px;"><a href="#"><img src="{site_url}{theme_url}images/for_men.png" alt="" width="270" height="169" border="0"></a>
+                          </td>
+                            <td style="width:20px;">
+
+                            </td>
+                            <td style="width:270px; height:169px;"><a href="#"><img src="{site_url}{theme_url}images/for_women.png" alt="" width="270" height="169" border="0"></a>
+                            </td>
+                            <td style="width:20px;">
+                            </td>
+                            <td style="width:270px; height:169px;"><a href="#"><img src="{site_url}{theme_url}images/for_children.png" alt="" width="270" height="169" border="0"></a>
+                            </td>
+
+                        </tr>
+
+                  </table>
+                </td>
+             </tr>
+      </table>
